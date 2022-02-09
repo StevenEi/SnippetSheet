@@ -1,2 +1,0 @@
-# SnippetSheet
-CSS Cheatsheet Snippet
